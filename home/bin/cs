@@ -1,0 +1,2 @@
+#!/bin/sh
+cscope -R -d -p 3
