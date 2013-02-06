@@ -1,2 +1,2 @@
 #!/bin/sh
-cscope -R -d -p 3
+cscope -R -d -p 5
